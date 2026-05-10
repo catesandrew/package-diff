@@ -23,6 +23,10 @@ Quickly see what changed in your lockfiles -- added, removed, updated, or downgr
 
 ## Installation
 
+### Pre-built binaries
+
+Download a standalone executable for your platform from the [GitHub Releases](https://github.com/catesandrew/package-diff/releases) page. Available for macOS (arm64 & x64), Linux (x64), and Windows (x64).
+
 ### From source
 
 ```bash
